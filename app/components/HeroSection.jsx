@@ -16,7 +16,7 @@ export const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Pramod",
+                "Pramod Lakmal",
                 1000,
                 "Full Stack Developer",
                 1000,
