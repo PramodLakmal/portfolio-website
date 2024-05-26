@@ -20,7 +20,7 @@ export const HeroSection = () => {
                 1000,
                 "Full Stack Developer",
                 1000,
-                "Mobile Developer",
+                "Mobile App Developer",
                 1000,
                 "UI/UX Designer",
                 1000,
